@@ -52,3 +52,5 @@ The test results and clinical history of the patient 1300236 in a longitudinally
 
 * The time information represents when each test was performed, and is colored with the patient clinical history.
 * The test results uses colors and symbols to represent the variation of results.
+* Notice that we have a set of Red Series Hemogram tests, in each values varies from the reference value along time. 
+* For instance, we can see an increase of the value for the test RDW, achieving very high values in the last days.
