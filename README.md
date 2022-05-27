@@ -17,3 +17,5 @@ https://user-images.githubusercontent.com/2184371/170728069-371fba9e-6e9f-493f-b
 
 * First, extract the ClinicalPath zip files.
 * Then, execute the file ClinicalPath.jar.
+
+## Published paper
