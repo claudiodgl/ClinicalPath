@@ -19,3 +19,24 @@ https://user-images.githubusercontent.com/2184371/170728069-371fba9e-6e9f-493f-b
 * Then, execute the file ClinicalPath.jar.
 
 ## Published paper
+
+The system was first published in 2022 on the IEEE Transactions on Visualization and Computer Graphics (TVCG) journal.
+
+* C. D. G. Linhares et al., "ClinicalPath: a Visualization tool to Improve the Evaluation of Electronic Health Records in Clinical Decision-Making," in IEEE Transactions on Visualization and Computer Graphics, doi: 10.1109/TVCG.2022.3175626.
+* [https://doi.org/10.1109/TVCG.2022.3175626](https://doi.org/10.1109/TVCG.2022.3175626)
+* @ARTICLE{9779066,
+  author={Linhares, Claudio D. G. and Lima, Daniel M. and Ponciano, Jean R. and Olivatto, Mauro M. and Gutierrez, Marco A. and Poco, Jorge and Traina, Caetano and Traina, Agma Juci Machado},
+  journal={IEEE Transactions on Visualization and Computer Graphics}, 
+  title={ClinicalPath: a Visualization tool to Improve the Evaluation of Electronic Health Records in Clinical Decision-Making}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-16},
+  doi={10.1109/TVCG.2022.3175626}
+  }
+
+## Data set
+
+The FAPESP COVID-19 Data Sharing/BR Repository (available [here](https://repositoriodatasharingfapesp.uspdigital.usp.br)) contains patient information related to COVID-19 from different institutions.
+
+* The ClinicalPath provides nine anonymous patient information from the FAPESP repository (id list 103007, 387938, 1232020, 1262563, 1300236, 1395592, 1570650, 1591522, 1678020) to exemplify the tool.
