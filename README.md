@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/2184371/170728069-371fba9e-6e9f-493f-b
 ## Download
 
 * You can download the ClinicalPath system [here](https://github.com/claudiodgl/ClinicalPath/blob/main/ClinicalPath_v2.0.zip). 
-* The software is implemented in Java and requires the JRE java version to execute, that can be obtained [here](www.java.com/en/download/).
+* The software is implemented in Java and requires the JRE java version to execute, that can be obtained [here](https://java.com/en/download).
 
 
 
