@@ -27,7 +27,8 @@ The system was first published in 2022 on the IEEE Transactions on Visualization
 
 * C. D. G. Linhares et al., "ClinicalPath: a Visualization tool to Improve the Evaluation of Electronic Health Records in Clinical Decision-Making," in IEEE Transactions on Visualization and Computer Graphics, doi: [https://doi.org/10.1109/TVCG.2022.3175626](https://doi.org/10.1109/TVCG.2022.3175626).
 
-* @ARTICLE{9779066,
+* ```sh
+  @ARTICLE{9779066,
   author={Linhares, Claudio D. G. and Lima, Daniel M. and Ponciano, Jean R. and Olivatto, Mauro M. and Gutierrez, Marco A. and Poco, Jorge and Traina, Caetano and Traina, Agma Juci Machado},
   journal={IEEE Transactions on Visualization and Computer Graphics}, 
   title={ClinicalPath: a Visualization tool to Improve the Evaluation of Electronic Health Records in Clinical Decision-Making}, 
