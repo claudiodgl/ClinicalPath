@@ -48,7 +48,7 @@ The FAPESP COVID-19 Data Sharing/BR Repository (available [here](https://reposit
 
 The test results and clinical history of the patient 1300236 in a longitudinally way:
 
-![ClinicalPath](https://user-images.githubusercontent.com/2184371/170758119-40fe8a4a-e8d3-4871-9c3d-2e4824e55af6.png)
+![ClinicalPath](https://user-images.githubusercontent.com/2184371/170779095-3a16e55e-1d9d-4486-b33a-8f2cb47af37d.PNG)
 
 * The time information represents when each test was performed, and is colored with the patient clinical history.
 * The test results uses colors and symbols to represent the variation of results.
