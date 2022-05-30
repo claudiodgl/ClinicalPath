@@ -41,7 +41,7 @@ The system was first published in 2022 on the IEEE Transactions on Visualization
 
 ## Preprint paper
 
-The article is freely available on arXiv using a preprint version: [https://doi.org/10.48550/arXiv.2205.13570](https://doi.org/10.48550/arXiv.2205.13570).
+The article is freely available on arXiv in a preprint version: [https://doi.org/10.48550/arXiv.2205.13570](https://doi.org/10.48550/arXiv.2205.13570).
 
 ## Data set
 
