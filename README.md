@@ -39,11 +39,17 @@ The system was first published in 2022 on the IEEE Transactions on Visualization
   doi={10.1109/TVCG.2022.3175626}
   }
 
+## Preprint paper
+
+The article is freely available on arXiv using a preprint version: [https://doi.org/10.48550/arXiv.2205.13570](https://doi.org/10.48550/arXiv.2205.13570).
+
 ## Data set
 
 The FAPESP COVID-19 Data Sharing/BR Repository (available [here](https://repositoriodatasharingfapesp.uspdigital.usp.br)) contains patient information related to COVID-19 from different institutions.
 
 * The ClinicalPath provides nine anonymous patient information from the FAPESP repository (id list 103007, 387938, 1232020, 1262563, 1300236, 1395592, 1570650, 1591522, 1678020) to exemplify the tool.
+
+
 
 ## Visualization example
 
