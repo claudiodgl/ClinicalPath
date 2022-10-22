@@ -10,6 +10,14 @@ Follows a video to demonstrate the ClinicalPath system main funcionalities.
 
 https://user-images.githubusercontent.com/2184371/170728069-371fba9e-6e9f-493f-b8fe-08db5e9bcc9d.mp4
 
+
+## Presentation at IEEE VIS 2022 Conference
+
+Follows a video of the ClinicalPath presented by Claudio Linhares at the IEEE VIS 2022.
+
+https://user-images.githubusercontent.com/2184371/197344405-e42f7985-8ff4-4241-b338-5fac9f745441.mp4
+
+
 ## Download
 
 * You can download the latest version of ClinicalPath system [here](https://github.com/claudiodgl/ClinicalPath/blob/main/ClinicalPath_v2.0.zip). 
