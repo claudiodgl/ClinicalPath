@@ -8,10 +8,6 @@ laboratory data at a glance and identify trends, abnormalities and relevant
 changes that drive diagnosis and treatment. The system was designed in close
 collaboration with domain experts in biomedical informatics and medicine.
 
-> ⚡ A modern **web version** of ClinicalPath (D3.js + FastAPI) is also
-> available, with the same visualization rebuilt for the browser:
-> 👉 [**claudiodgl/ClinicalPath_web**](https://github.com/claudiodgl/ClinicalPath_web)
-
 ---
 
 ## Contents
