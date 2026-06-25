@@ -8,6 +8,10 @@ laboratory data at a glance and identify trends, abnormalities and relevant
 changes that drive diagnosis and treatment. The system was designed in close
 collaboration with domain experts in biomedical informatics and medicine.
 
+> 🌐 **New — try ClinicalPath in your browser, no install required:**
+> **[claudiodgl.github.io/ClinicalPath_web](https://claudiodgl.github.io/ClinicalPath_web/)**
+> (source: [claudiodgl/ClinicalPath_web](https://github.com/claudiodgl/ClinicalPath_web)).
+
 ---
 
 ## Contents
@@ -64,13 +68,21 @@ The Java desktop release runs on any platform with a Java Runtime.
 
 ## Web version
 
-A browser-based re-implementation of the same visualization is available in
-the companion repository
-[**claudiodgl/ClinicalPath_web**](https://github.com/claudiodgl/ClinicalPath_web).
-It uses **D3.js** on the frontend and **FastAPI** on the backend, runs on
-the same `ClinicalPath_v2.0` dataset, and adds modern interactions
-(multi-selection, drag-to-pan, light/dark theme, draggable per-exam line
-charts, SVG export). Recommended starting point for new users.
+A browser-based re-implementation of the same visualization runs entirely in
+your browser — **no Java, no install.** It is the recommended starting point
+for new users.
+
+### ▶️ [Try it live — claudiodgl.github.io/ClinicalPath_web](https://claudiodgl.github.io/ClinicalPath_web/)
+
+![ClinicalPath Web — interactive demo](media/clinicalpath_web.gif)
+
+The web version uses **D3.js** on the frontend and **FastAPI** on the backend,
+runs on the same `ClinicalPath_v2.0` dataset, and adds modern interactions:
+multi-selection, click-and-drag panning, a light/dark theme, draggable
+per-exam line-chart popups, and SVG export.
+
+- 🌐 **Live demo:** <https://claudiodgl.github.io/ClinicalPath_web/>
+- 📦 **Source code:** [**claudiodgl/ClinicalPath_web**](https://github.com/claudiodgl/ClinicalPath_web)
 
 ## Dataset
 
